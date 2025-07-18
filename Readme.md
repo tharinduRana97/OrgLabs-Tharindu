@@ -19,7 +19,7 @@ Complete CRUD operation in Student management page. \
 <mark>Edit Student Data</mark>\
 <img width="452" height="293" alt="image" src="https://github.com/user-attachments/assets/6af5f56f-e4a8-4c08-b09e-75564d726ed1" />
 
-<mark>Disable student Data'</mark>\
+<mark>Disable Student</mark>\
 <img width="452" height="293" alt="image" src="https://github.com/user-attachments/assets/a19a0dc2-79f1-4215-98a2-5c4c4dc7cd3e" />\
 <img width="451" height="261" alt="image" src="https://github.com/user-attachments/assets/a7aa1b42-78c5-4f45-9345-27369f4ed650" />
 
